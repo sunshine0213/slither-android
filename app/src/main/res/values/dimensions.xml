@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="popup_width">300dp</dimen>
+    <dimen name="popup_height">500dp</dimen>
+    <dimen name="gameover_text_size">40sp</dimen>
+    <dimen name="score_text_size">60sp</dimen>
+    <dimen name="score_size">85sp</dimen>
+</resources>
